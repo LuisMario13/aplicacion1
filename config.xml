@@ -4,8 +4,6 @@
 	   id          = "com.phonegap.example1"
 	   versionCode = "10"
 	   version     = "1.0.0" >
-	   
-	<!-- versionCode is optional and Android only-->
 	
 	<name>Apliacion uno DATOSALUMNO</name>
 	
